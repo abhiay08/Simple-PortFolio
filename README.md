@@ -1,2 +1,3 @@
-# Simple-PortFolio
-Simple Portfolio website using HTML &amp; CSS. 
+# Portfolio-Website
+
+SImple try of portfolio website using HTML & CSS
